@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "DON'T KNOW WHAT TO DO",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2026-01-04T17:21:14.837758Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Know What to Do",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/01_Don't_Know_What_to_Do_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dont Know What To Do",
+      "artist": "Blackpink",
+      "has_synced": true,
+      "path": "select/02_Dont_Know_What_To_Do_Blackpink.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don’t Know What to Do",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/03_Don’t_Know_What_to_Do_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Know What to Do",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/04_Don't_Know_What_to_Do_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don’t Know What to Do",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/05_Don’t_Know_What_to_Do_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Know What to Do",
+      "artist": "Arbes",
+      "has_synced": true,
+      "path": "select/06_Don't_Know_What_to_Do_Arbes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don’t Know What to Do",
+      "artist": "Betty Boo",
+      "has_synced": true,
+      "path": "select/07_Don’t_Know_What_to_Do_Betty_Boo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dont Know What To Do",
+      "artist": "Blackpink",
+      "has_synced": false,
+      "path": "select/08_Dont_Know_What_To_Do_Blackpink.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Know What to Do",
+      "artist": "Lisa Shaw",
+      "has_synced": false,
+      "path": "select/09_Don't_Know_What_to_Do_Lisa_Shaw.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don’t Know What to Do",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/10_Don’t_Know_What_to_Do_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Know What to Do",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/11_Don't_Know_What_to_Do_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Know What to Do",
+      "artist": "Betty Boo",
+      "has_synced": true,
+      "path": "select/12_Don't_Know_What_to_Do_Betty_Boo.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Know What To Do",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/13_Don't_Know_What_To_Do_BLACKPINK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Know What To Do",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Know_What_To_Do_BLACKPINK.txt"
+    }
+  ]
+}
